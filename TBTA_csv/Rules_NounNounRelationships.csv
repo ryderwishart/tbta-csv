@@ -1,0 +1,15 @@
+ID,Relationship Concept,Noun-Noun Relationship,Comment,CommentFonts,Example
+1,-Body Part,S,,,Mary's hand
+2,-Composed of,P,  Daniel 7:10  a river of fire ...,"16,34",river of blood
+3,-Group,r,  1 Samuel 29:2 Groups of 1000 soldiers,"17,39",group of people
+4,-Kinship,S,  ,,Mary's mother
+5,-Made of,p,  Bare Stem Pre-Nominals: Adpositions 1:6  John saw the brick house.,"44,68",brick house
+6,-Name,P,   Adpositions 1:20  A man named John wrote this book.,"22,54",man named John
+7,-Nationality,B,  ,,Chinese man
+8,-Owner,S,  ,,Mary's book
+9,-Part Whole,n,  ,,back of the boat
+10,-Quantity,p,  ,,7 liters of water
+11,-Region of Authority,P,  Adpositions 1:7  John saw the king of Egypt.  ,"20,46",king of Assyria
+12,-Title,p,  Luke 7:20  John the Baptist sent us ...,"14,41",King Xerxes
+13,-Subroup,,,,[[herd of] sheep]
+14,-Title,,,,[[King] Xerxes]

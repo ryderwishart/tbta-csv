@@ -1,0 +1,44 @@
+ID,ParentID,GroupName
+1,0,Events
+2,1,Physical
+3,1,Mental
+4,1,Social
+5,1,Emotional
+6,1,States
+7,2,Events involving Human or Animal Bodies
+8,4,Financial
+9,7,Bodily Functions
+10,4,Methods of Communicating
+11,4,Government
+12,7,Events involving the Senses
+13,7,Events describing Bodily Positions
+14,2,Methods of Destruction/Harm
+15,2,Events related to Gathering Food
+16,2,Transport
+17,7,Movement from one Location to Another Location
+18,4,Religious
+19,1,Methods of Food Preparation
+21,4,Fighting
+22,2,Methods of Building/Repairing
+23,4,Possession
+24,4,Events involving Inter-Personal Relationships
+25,2,Events involving Nature
+26,7,Methods of Locomotion
+27,7,Movement from one Position to Another Position
+28,7,Cleaning and Grooming
+29,1,Events with a Divine Agent
+30,1,Temporal Events
+31,4,Manipulative Events that take Object Complements
+32,31,Manipulating Others
+33,31,Manipulating Self
+34,10,Oral
+35,10,Written
+36,10,Other
+37,1,"Events Describing Changes in a State, Size, or Quantity"
+38,7,Movement of the Entire Body
+39,7,Movement of a Body Part
+40,9,Causatives of Bodily Functions
+41,2,Miscellaneous Movements
+42,2,Miscellaneous Physical Events
+43,4,Miscellaneous Social Events
+44,1,Miscellaneous Events

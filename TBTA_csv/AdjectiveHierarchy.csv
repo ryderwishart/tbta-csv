@@ -1,0 +1,26 @@
+ID,ParentID,GroupName
+1,0,Object Attributes
+2,1,Numbers
+3,1,Colors
+4,1,Size
+5,1,Quantity
+6,1,Human
+7,2,Cardinal Numbers
+8,2,Ordinal Numbers
+10,2,Fractional Numbers
+11,6,Physical
+12,6,Emotional
+13,6,Mental
+14,6,Personal
+15,1,Spatial
+16,1,Temporal
+17,1,Weather
+18,1,Nationalities
+19,1,Identifiers
+20,1,Physical
+22,1,Abstract
+23,1,Miscellaneous
+24,22,Financial
+25,22,Moral
+26,22,Mental
+27,22,Comparative

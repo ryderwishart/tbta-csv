@@ -1,0 +1,6 @@
+ID,SyntacticCategory,FeatureName,Rules
+1,1,Number,"PD,PT,PQ,"
+2,1,Participant Tracking,"Di,DE,DR,DF,"
+3,1,Proximity,"SN,LR,Lr,ST,Lt,SC,Lc,"
+4,1,Person,"1A,1B,1D,2C,1F,2S,1I,1E,"
+5,2,Time,"YD,YA,Ya,Yb,Yc,Yd,Ye,Yf,Yg,Yh,Yi,Yq,Yr,ZE,ZF,Zj,Zk,Zl,Zm,Zn,Zo,Zp,PT,"

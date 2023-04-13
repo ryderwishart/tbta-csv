@@ -1,0 +1,10 @@
+ID,ParentID,GroupName
+1,0,Event Attributes
+2,1,Temporal
+3,1,Manner
+4,1,Sequence
+5,1,Question
+6,1,Comparison
+7,1,Repetition
+8,1,Quantity
+9,1,Miscellaneous

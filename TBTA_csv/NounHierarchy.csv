@@ -1,0 +1,135 @@
+ID,ParentID,GroupName
+1,0,Objects
+2,1,Tangible
+3,1,Intangible
+4,2,Animate
+5,2,Inanimate
+10,4,People
+11,4,Animals
+12,4,Plants
+13,61,Male Names
+14,61,Female Names
+15,11,Vertebrates
+16,11,Invertebrates
+17,12,Bushes
+18,12,Trees
+19,12,Flowers
+20,12,Vines
+21,12,Grasses
+22,5,Artifacts
+25,22,Clothing/Jewelry/Accessories
+26,22,Eating/Cooking Utensils
+27,5,Places
+28,131,Mountains/Valleys
+29,131,Rivers
+30,131,Deserts
+31,131,Lakes
+32,131,Seas
+33,131,Oceans
+34,5,Materials/Substances/Chemicals
+35,34,Wood
+36,34,Metals
+37,3,Animate
+38,3,Inanimate
+39,37,Divine
+40,37,Angelic
+41,40,Individuals
+42,40,Categories
+43,38,Social
+45,43,Genealogical Relationships
+46,43,Ethnic Groups
+47,27,Geopolitical
+48,47,Countries
+49,47,Provinces
+50,47,Cities
+51,47,Towns
+52,47,Villages
+55,38,Temporal
+56,55,Years
+57,55,Months
+58,55,Days
+59,55,Holidays/Feasts/Ceremonies
+60,55,Times
+61,10,Individuals
+62,10,Categories/Classifications
+63,105,Human and Animal Bodyparts/Body Products
+64,15,Mammals
+65,15,Birds
+66,15,Fish
+67,15,Reptiles
+68,15,Primates
+69,15,Amphibians
+70,15,Rodents
+71,15,Marsupials
+72,15,Cetaceans
+73,16,Insects
+74,16,Arachnids
+75,22,Structures
+76,22,Wells
+77,131,Fields
+78,131,Plains
+79,131,Gardens
+80,27,Extraterrestrial
+81,5,Ingestibles
+82,113,Fruits
+83,113,Vegetables
+84,113,Grains
+85,113,Nuts
+86,22,Musical Instruments
+87,43,Occupations/Social Roles/Positions
+88,131,Miscellaneous
+89,3,Abstract
+90,89,Units of Measurement
+91,90,Weight
+92,90,Distance
+93,90,Time
+94,81,Drinks
+95,22,Transportation
+96,43,Languages
+97,22,Weapons/Armor
+98,22,Worship
+99,22,Tools/Instruments
+100,22,Furniture
+101,22,Containers
+102,34,Stones
+103,81,Prepared Foods
+104,90,Volume
+105,2,Parts of Tangible Objects
+106,105,Plants
+107,105,Artifacts
+109,105,Environment
+110,105,Geopolitical
+111,43,Communicative Diseases
+112,43,Organizations
+113,81,Harvested Foods
+114,34,Substances
+115,81,Meals
+116,4,Organisms
+117,90,Quantities
+118,22,Financial
+119,22,Written
+120,55,Temporal Units/Parts
+121,89,Directions
+122,55,Seasons
+123,61,Titles
+124,34,Gems
+125,34,Chemicals
+126,96,Transliterated Words/Phrases from other Languages
+127,11,Categories
+128,12,Categories
+129,34,Miscellaneous Materials
+130,38,Natural
+131,27,Geographical
+132,89,Mental
+133,89,Emotional
+134,89,Physical
+135,89,Theological
+136,89,Legal
+137,89,Verbal
+138,89,Social
+139,89,Financial
+140,37,Human
+141,22,Miscellaneous
+142,89,Miscellaneous
+143,105,Bodypart Problems
+144,5,Miscellaneous Inanimate Tangibles

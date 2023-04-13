@@ -1,0 +1,8 @@
+ID,ParentID,GroupName
+1,0,Particles
+2,1,Responses
+3,1,Requests
+4,1,Capitulation
+5,1,Punctuation Marks
+6,1,List Enumerators
+7,1,Miscellaneous

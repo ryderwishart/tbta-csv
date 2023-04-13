@@ -1,0 +1,7 @@
+ID,ParentID,GroupName
+1,0,Conjunctions
+2,1,Logical
+3,1,Temporal
+4,1,Contrast
+5,1,Consequence
+6,1,Miscellaneous

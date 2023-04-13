@@ -1,0 +1,10 @@
+ID,ParentID,GroupName
+1,0,Relations
+2,1,Spatial
+3,1,Temporal
+4,1,Object-Object
+5,1,Discourse Markers
+6,1,Event Modifying Propositional Markers
+7,1,Semantic Role Markers
+8,1,Comparison
+9,1,Miscellaneous

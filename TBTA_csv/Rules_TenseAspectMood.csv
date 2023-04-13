@@ -1,0 +1,42 @@
+ID,InputFeatures,OutputFeatures,Comment,CommentFonts,References,Status
+1,"Y,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","P,,,",  Nouns 1:1  A man walked.,"14,26",,1
+2,"P,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","p,,,",  Verbs 1:2  John walks.,"14,24",,1
+3,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","F,,,",  Verbs 1:3  John will walk.,"14,28",,1
+4,",H,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",H,,",  Verbs 1:4  John regularly walked.,"14,35",,1
+5,",C,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",C,,",  Verbs 1:5  John finished walking.,"14,35",,1
+6,",N,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",N,,",  Verbs 1:6  John started walking.,"14,34",,1
+7,",c,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",c,,",  Verbs 1:7  John stopped walking.,"14,34",,1
+8,",o,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",o,,",  Verbs 1:8  John continued walking.,"14,36",,1
+9,",G,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","p,G,,",  Verbs 1:9  John always walks.,"14,31",,1
+10,",,I,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",,I,",  ,,,1
+11,",,a,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",,a,",  Verbs 1:11 John will definitely walk.,"14,39",,1
+12,",,b,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",,b,",  Verbs 1:12  John will probably walk.,"15,38",,1
+14,",,f,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",,f,",  ,,,1
+15,"Y,,f,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","P,,f,","  Luke 2:1  All the people had to go ...  I turned this row and row 16 off because 'must' Obligation shouldn't set the Target Tense and Form value.  'must' can occur with any tense, so row 14 handles all tenses.","13,40",,0
+16,"Z,,f,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","F,,f,",  Genesis 11:4:5  We will have to move to other regions.,"18,56",,0
+17,"Z,,g,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","F,,g,",  ,,,1
+18,",,l,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","F,,l,",  Verbs 1:20  John may walk.,"15,28",,1
+19,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,","p,,,","  Clauses 1:75  If Mary reads that book, John will read this book.  If the original Time is past, the verb should be past.  Esther 2:14  If the king liked a girl, ...  This only applies if the Polarity is Affirmative.  Example with Negative Polarity: Gen. 24:8:1 If the woman won't come to Canaant with you ...  But this causes problems in Gen. 24:5 If that woman won't want to return ...","17,66,138,166,264,310,351,388",,1
+21,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,H,","p,,,",  Clauses 1:76  John will read this book even if Mary reads that book.  Ruth 1:12  ,"17,70,83,83",,1
+22,",,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,",".,,C,",  Clauses 1:77 John read this book so that Mary could read that book.,"16,69",,1
+23,",,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,J,",".,,,",  Clauses 1:79  Mary read this book in order to help John read that book.,"17,73",,1
+24,",,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,","i,,,",  Clauses 1:80  John read this book instead of reading that book.,"17,65",,1
+25,",,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I,","i,,,",  Clauses 1:85  John caused Mary to read this book by reading that book.,"17,72",,1
+28,",,,,,,,,,,,,,,,,,^,,,,,,^,I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",".,,,",  Clauses 1:90  Read a book.,"17,28",,1
+29,",,,,,,,,,,,,,,,,,^,,,,,,^,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","p,,,",  Genesis 1:3  Let there be light.,"16,34",,1
+30,",,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,p,","i,,,",  Esther 9:1  That day the Jews killed their enemies instead of their enemies killing them.,"15,91",,1
+31,",I,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",I,,",  Infected Eye 1:6  Something is preventing me from opening my eyes.,"21,68",,1
+32,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,","N,,,",  Infected Eye 1:10  We must clean your eyes each day until they become healthy again.  ,"22,86",,1
+33,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Q,","p,,,","  Gen. 15:3  After I die, my slave will inherit all my things.","14,62",,1
+34,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,U,","p,,,","  Gen. 18:23  When you destroy the city, ...","15,44",,1
+35,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,","p,,,","  Gen. 24:7  Before you travel to that place, ...","14,49",,1
+36,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,","p,,,",  ,,,1
+37,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,","p,,,","  1 Samuel 20:14  But while I'm alive, ...","18,42",,1
+38,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,","p,,,",  Ruth 2:9,,,1
+13,",,c,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",",,c,",  Verbs 1:13  John might walk.  Note that 'might' Potential may be either Past or Future.  Judges 12:3 I might have died.,"15,30,104,121",,1
+39,"Z,,,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,","p,,,",  Genesis 42:15  You won't leave this place unless your youngest brother comes here.,"17,84",,1
+40,"Y,,c,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","e,,,",  Ephesians 4:28 Earlier you might have stolen things.  I turned this off because of Judges 18:27 The people didn't think that other people might attack them.,"18,54,99,158",,0
+42,"Y,,g,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","P,,g,",  ,,,1
+44,"P,,g,,,,,,,,,,,,,,,^,,,,,,^,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","p,,g,",  Luke 15:32 We should celebrate now.,"14,37",,1
+45,",,,,,,,,,,,,,,,,,^,,,,,,^,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",".,,,",  Bible Stories 44:2,,,1
+46,",,,,,,,,,,,,,,,,,^,,,,,,^,i,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",".,,,",  Judges 8:21,,,1

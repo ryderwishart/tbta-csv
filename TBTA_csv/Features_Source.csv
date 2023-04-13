@@ -1,0 +1,7 @@
+ID,SyntacticCategory,FeatureName,FeatureValues
+1,1,General Category,Men's Names/M|Women's Names/F|Names of Places/G|Temporal Names/T|Other Proper Names/g|Abstracts/A|All other Objects/o|
+2,2,General Category,Propositional Patients/P|Propositional Agents/p|
+3,3,General Category,Cardinal Numbers/C|Ordinal Numbers/O|Fractional Numbers/F|Colors/L|Quantity/Q|Identity/I|
+4,4,General Category,Used in Clauses to modify Verbs/A|Used in Noun Phrases to modify Nouns/B|Used in Adjective Phrases to modify Adjectives/C|
+5,5,General Category,Used in Adjunct Phrases/A|Used in Noun-Noun Phrases/B|Used in Adverbial Clauses/C|
+6,6,General Category,Used to conjoin Clauses/A|Used to conjoin Noun Phrases/B|Used to conjoin Adjective Phrases/C|Used to conjoin Adverb Phrases/D|

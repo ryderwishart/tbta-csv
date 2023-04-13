@@ -1,0 +1,10 @@
+ID,SyntacticCategory,FormName,FieldName,Comment,CommentFonts,ParentGroupID
+1,1,Plural,Form 1,,,
+2,2,Past,Form 1,,,
+3,2,Perfect,Form 2,,,
+4,2,Participle,Form 3,,,
+5,2,Third Singular Present,Form 4,,,
+6,3,Comparative,Form 1,,,
+7,3,Superlative,Form 2,,,
+8,4,Comparative,Form 1,,,
+9,4,Superlative,Form 2,,,

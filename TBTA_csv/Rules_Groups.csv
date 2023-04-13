@@ -1,0 +1,90 @@
+ID,RuleType,SyntacticCategory,GroupName
+161,10,1,Initializing a Switch Reference System
+162,2,1,Obliques
+164,2,1,Tense/Aspect in Subordinate Clauses
+165,19,1,Noun-Adposition Combinations
+43,10,1,Complex Object Insertion Rules
+44,10,1,Complex Event Insertion Rules
+45,10,1,Complex Object Attribute Insertion Rules
+46,10,1,Common Transfer Rules
+64,12,1,Transitive Family
+68,17,1,Punctuation
+69,17,1,Subordinate Clause Boundaries
+70,17,1,Combine Words with Dashes
+71,17,1,Expressions
+73,11,1,Generic PSRs
+74,17,1,"Forms of ""to be"""
+75,17,1,Articles and Demonstratives
+76,17,1,Tenses
+78,18,1,Forms
+79,18,1,Adjective and Adverb Degree
+82,2,1,Convert Remaining Grammatical Words to Semantic Words
+83,2,1,Special Noun-Noun Sequences
+85,2,1,Delete certain Adpositions
+87,2,1,Participant Tracking
+88,18,1,Specifiers
+90,18,1,Polarity
+92,18,1,Pronouns
+93,17,1,Aspects
+94,18,1,Tense
+96,2,1,Auxiliary Verbs
+97,19,1,Noun-Verb Combinations
+98,19,1,Noun-Adjective Combinations
+99,19,1,Adverb-Adposition Combinations
+100,2,1,Tense
+101,2,1,Aspect
+107,20,101,Generic NPs
+109,20,103,Generic AdjP
+110,20,105,Generic Clause
+112,2,1,Verbs with Prepositions or Nouns
+113,19,1,Adjective-Adposition Combinations
+114,2,1,Semantic Roles
+115,2,1,Coordinate Phrases
+116,2,1,Subject and Object Complements
+117,19,1,Verb-Adposition Combinations
+118,2,1,Adverbial Clauses
+119,19,1,Verb-Particle Combinations
+120,19,1,Adjective-Adverb Combinations
+121,18,1,Aspect
+122,2,1,Relative Clauses
+123,17,1,Moods
+124,2,1,Comparative Constructions
+125,17,1,Polarity
+126,2,1,Special Noun-Noun Relationships
+128,2,1,Illocutionary Force
+129,17,1,Words with Grammatical Significance (words not in the ontology)
+130,17,1,Pronouns
+131,17,1,Possession
+132,17,1,Degree Indicators
+133,2,1,Attributive Arguments
+134,2,1,Complex Concept Expansion Rules
+135,19,1,Verb-Adjective Combinations
+136,17,1,Questions Words
+137,18,1,Mood
+138,19,1,Noun-Adverb Combinations
+139,20,104,Generic AdvP
+142,17,1,Numbers
+143,2,1,Case Frames A-B
+144,2,1,Case Frames C-D
+146,2,1,Case Frames E-F
+147,2,1,Case Frames G-H
+148,2,1,Case Frames I-K
+150,2,1,Case Frames L-M
+151,2,1,Case Frames N-O
+152,2,1,Case Frames P-Q
+153,2,1,Case Frames R-S
+154,2,1,Case Frames T-V
+155,2,1,Case Frames W-Z
+156,2,1,Adjective Case Frames
+157,2,1,Numbers/Quantifiers
+158,2,1,Thing-Thing Relationships
+159,2,1,Collocation Corrections - Changing Word Senses
+160,18,1,Subordinate Clauses
+166,10,1,Combining Simple Clauses
+167,17,1,Conjunctions
+168,2,1,Reflexive/Reciprocal Verbs
+169,17,1,Change one word to another
+170,2,1,Clean up
+171,10,1,Predicative Adjective Constructions
+172,10,1,Third Person Pronoun Identification Rules (English style)
+173,20,102,Generic VPs

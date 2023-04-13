@@ -1,0 +1,16 @@
+ID,DeepStructureCode,SemanticName,OriginalSemanticName,SemanticAbbreviation,OriginalSemanticAbbreviation,SyntacticName,OriginalSyntacticName,SyntacticAbbreviation,OriginalSyntacticAbbreviation
+1,N,Object,Object,Obj,Obj,Noun,Noun,N,N
+2,V,Event,Event,Evnt,Evnt,Verb,Verb,V,V
+3,A,Object Attribute,Object Attribute,ObjAttr,ObjAttr,Adjective,Adjective,Adj,Adj
+4,a,Event Attribute,Event Attribute,EvntAttr,EvntAttr,Adverb,Adverb,Adv,Adv
+5,P,Relation,Relation,Rel,Rel,Adposition,Adposition,Adp,Adp
+6,C,Conjunction,Conjunction,Con,Con,Conjunction,Conjunction,Con,Con
+7,p,Phrasal,Phrasal,Phr,Phr,Phrasal,Phrasal,Phr,Phr
+8,r,Particle,Particle,Par,Par,Particle,Particle,Par,Par
+9,n,Object Phrase,Object Phrase,ObjP,ObjP,Noun Phrase,Noun Phrase,NP,NP
+10,v,Event Phrase,Event Phrase,EvntP,EvntP,Verb Phrase,Verb Phrase,VP,VP
+11,j,Object Attribute Phrase,Object Attribute Phrase,ObjAttrP,ObjAttrP,Adjective Phrase,Adjective Phrase,AdjP,AdjP
+12,d,Event Attribute Phrase,Event Attribute Phrase,EvntAttrP,EvntAttrP,Adverb Phrase,Adverb Phrase,AdvP,AdvP
+13,c,Proposition,Proposition,Prop,Prop,Clause,Clause,C,C
+14,R,Cluster,Cluster,Clust,Clust,Paragraph,Paragraph,R,R
+15,E,Episode,Episode,Epi,Epi,Section,Section,E,E
