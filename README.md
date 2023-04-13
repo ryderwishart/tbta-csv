@@ -1,6 +1,8 @@
 # tbta-csv
 A CSV dump of The Bible Translator's Assistant data
 
+If you use this data, please share a pull request to the README or message me to add a link to what you're doing with it. Thanks!
+
 ## What is this?
 
 This is a CSV dump of the data from The Bible Translator's Assistant (TBTA) project. The data is in the form of a CSV file, with each row representing a single word. Each table in the original Access databases is contained in a separate CSV file.
