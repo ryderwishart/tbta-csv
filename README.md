@@ -1,4 +1,7 @@
 # tbta-csv
+
+> ! NOTE: this repository has been superseded by Kevin Edey's work, [tbta_db_export](https://github.com/AllTheWord/tbta_db_export).
+
 A CSV dump of The Bible Translator's Assistant data
 
 If you use this data, please share a pull request to the README or message me to add a link to what you're doing with it. Thanks!
